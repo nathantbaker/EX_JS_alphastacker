@@ -14,6 +14,3 @@ function stackLetters (theAlphabetArray) {
 }
 
 stackLetters(alphabet);
-
-var stuffToDisplay = "<p>HeyooO</p>";
-document.getElementById("main").innerHTML = stuffToDisplay;
